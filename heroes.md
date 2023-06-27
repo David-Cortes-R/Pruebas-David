@@ -4,3 +4,6 @@
 2. Capitan America
 3. Thor
 4. Black Panther
+5. Capitana Marvel
+6. hulk
+7. Ant Man
