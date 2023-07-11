@@ -23,6 +23,3 @@
 21. Giganta
 22. Deadshot
 23. Scarecrow
-
-24. HolaTodos
-25. hola solo a uno
